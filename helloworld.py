@@ -1,6 +1,6 @@
 "Helloworld"
 
 def helloworld():
-    print("Helloworld")
+    print("Ohaiyo Sekai!")
 helloworld()
 
